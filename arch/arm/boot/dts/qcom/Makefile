@@ -219,7 +219,15 @@ dtb-$(CONFIG_SHARP_SDM630_SDM660_PROJS) += sdm630-mtp-ss2-dvt.dtb \
 	sdm630-mtp-ss2-dvt2.dtb \
         sdm636-mtp-hd1-DVT.dtb \
         sdm660-mtp-sat-evt2.dtb
-
+	sdm630-mtp-s2_eu-dvt.dtb \
+	sdm660-cdp-s2p-evb.dtb \
+	sdm660-cdp-s2p-evt1.dtb \
+	sdm660-cdp-s2p-evt2.dtb \
+	sdm660-cdp-s2p-dvt.dtb \
+	sdm660-mtp-s2p-evb.dtb \
+	sdm660-mtp-s2p-evt1.dtb \
+	sdm660-mtp-s2p-evt2.dtb \
+	sdm660-mtp-s2p-dvt.dtb
   #      sdm630-mtp-sg1-dvt.dtb
 
 #       sdm630-mtp-ss2-dvt2.dtb
